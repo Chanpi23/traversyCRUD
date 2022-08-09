@@ -23,9 +23,8 @@
     "passport-google-oauth20": "^2.0.0"
   },
   "devDependencies": {
-    "cross": "^1.0.0",
+    
     "cross-env": "^7.0.3",
-    "env": "^0.0.2",
     "nodemon": "^2.0.19"
   }
 }
