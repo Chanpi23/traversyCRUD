@@ -15,7 +15,7 @@ const app = express()
  if(process.env.NODE_ENV === 'development'){
     app.use (morgan('dev'))
  }
- // Handlesbars
+ // Handlebars
  
 
 const PORT= process.env.PORT || 8500
